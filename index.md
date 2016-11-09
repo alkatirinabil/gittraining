@@ -12,7 +12,7 @@ Function:
 * Emphasis
 * Lists
 
-Another Function:
+Another Function:  
 1. Images  
 2. Links  
 3. Blockquotes
