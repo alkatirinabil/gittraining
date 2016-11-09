@@ -2,8 +2,8 @@
 ### Syntax
 ##### Training!
 
-_Italic Words_
-**Bold Words**
+_Italic Words_  
+**Bold Words**  
 **_Italic&Bold Words_**
 
 ### List
